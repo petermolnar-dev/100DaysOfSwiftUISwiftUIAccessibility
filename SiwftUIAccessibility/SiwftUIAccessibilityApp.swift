@@ -11,7 +11,7 @@ import SwiftUI
 struct SiwftUIAccessibilityApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AdjustableValueView()
         }
     }
 }

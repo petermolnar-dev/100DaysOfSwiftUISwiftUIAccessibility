@@ -11,6 +11,7 @@
 		C70193C82897021200C64968 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C70193C72897021200C64968 /* ContentView.swift */; };
 		C70193CA2897021400C64968 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C70193C92897021400C64968 /* Assets.xcassets */; };
 		C70193CD2897021400C64968 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C70193CC2897021400C64968 /* Preview Assets.xcassets */; };
+		C70193D42897060500C64968 /* AdjustableValueView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C70193D32897060500C64968 /* AdjustableValueView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C70193C72897021200C64968 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C70193C92897021400C64968 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C70193CC2897021400C64968 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C70193D32897060500C64968 /* AdjustableValueView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdjustableValueView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				C70193C52897021200C64968 /* SiwftUIAccessibilityApp.swift */,
 				C70193C72897021200C64968 /* ContentView.swift */,
+				C70193D32897060500C64968 /* AdjustableValueView.swift */,
 				C70193C92897021400C64968 /* Assets.xcassets */,
 				C70193CB2897021400C64968 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C70193D42897060500C64968 /* AdjustableValueView.swift in Sources */,
 				C70193C82897021200C64968 /* ContentView.swift in Sources */,
 				C70193C62897021200C64968 /* SiwftUIAccessibilityApp.swift in Sources */,
 			);
